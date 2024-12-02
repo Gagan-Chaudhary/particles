@@ -13,10 +13,10 @@ Interactive particle background project using React and tsParticles.
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/Gagan-Chaudhary/particles
 
 # Navigate to project directory
-cd particles-demo
+cd particles
 
 # Install dependencies
 npm install
