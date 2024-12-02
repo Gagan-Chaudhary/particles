@@ -57,6 +57,28 @@ Modify `ParticlesBackground.js` to:
 - Ensure compatible package versions
 - Use `npm audit fix` for dependency issues
 
+## Connect with Me
+
+<div align="center">
+  <a href="https://gaganchaudhary.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+
+  <a href="https://linkedin.com/in/thegaganchaudhary" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+  <a href="https://github.com/Gagan-Chaudhary" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  
+ 
+</div>
+
 ## License
 
 MIT License
